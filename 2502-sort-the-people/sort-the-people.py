@@ -6,9 +6,9 @@ class Solution:
         for i in range(len(heights)):
             freq[heights[i]] += 1
             my_dict[heights[i]] = names[i]
-        answer = []
+        curr = 0
         for i in range(len(freq)-1, -1, -1):
             if freq[i] != 0:
-                answer.append(my_dict[i])
-        return answer
-            
+                names[curr] = my_dict[i]
+                curr += 1
+        return names
