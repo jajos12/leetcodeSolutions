@@ -8,7 +8,6 @@ class Solution:
                     heights.pop(j+1)
                     names.insert(i, names[j])
                     names.pop(j+1)
-                    # names[i], names[j] = names[j], names[i]
         return names
 
                     
