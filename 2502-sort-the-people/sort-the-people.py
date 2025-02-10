@@ -1,13 +1,14 @@
 class Solution:
     def sortPeople(self, names: List[str], heights: List[int]) -> List[str]:
-        # insertion sort
+        # counting sort
+        freq = [0 for i in range(max(heights)+1)]
+        my_dict = defaultdict(str)
         for i in range(len(heights)):
-            for j in range(i+1, len(heights)):
-                if heights[j] > heights[i]:
-                    heights.insert(i, heights[j])
-                    heights.pop(j+1)
-                    names.insert(i, names[j])
-                    names.pop(j+1)
-        return names
-
-                    
+            freq[heights[i]] += 1
+            my_dict[heights[i]] = names[i]
+        answer = []
+        for i in range(len(freq)-1, -1, -1):
+            if freq[i] != 0:
+                answer.append(my_dict[i])
+        return answer
+            
