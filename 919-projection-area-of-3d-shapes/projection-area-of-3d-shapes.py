@@ -12,5 +12,5 @@ class Solution:
             if 0 in grid[i]:
                 top -= grid[i].count(0)
                 # print(top)
-        print(top, front, side)
+        # print(top, front, side)
         return top + front + side
