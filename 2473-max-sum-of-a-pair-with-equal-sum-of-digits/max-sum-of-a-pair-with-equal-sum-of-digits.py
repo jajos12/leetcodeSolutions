@@ -12,5 +12,4 @@ class Solution:
             if maxim < sum(my_dict[sum_of_digit][-2:]) and len(my_dict[sum_of_digit]) > 1:
                 maxim = sum(my_dict[sum_of_digit][-2:])
 
-        print(my_dict, max_len)
         return maxim if max_len > 1 else -1
