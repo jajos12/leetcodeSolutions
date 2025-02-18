@@ -8,10 +8,10 @@ class Solution:
             a_start, a_end = A[i]
             b_start, b_end = B[j]
             if a_start <= b_end and b_start <= a_end:
-                result.append([max(a_start, b_start), min(a_end, b_end)])   # Squeezing
+                result.append([max(a_start, b_start), min(a_end, b_end)])
                 
-            if a_end <= b_end:         # Exhausted this range in A
-                i += 1               # Point to next range in A
-            else:                      # Exhausted this range in B
-                j += 1               # Point to next range in B
+            if a_end <= b_end:
+                i += 1        
+            else:             
+                j += 1        
         return result
