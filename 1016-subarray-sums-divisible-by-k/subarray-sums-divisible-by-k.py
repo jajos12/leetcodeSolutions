@@ -6,7 +6,6 @@ class Solution:
         count = 0
         for i in range(len(nums)):
             run_sum += nums[i]
-            # print(d)
             count += d[run_sum%k]
             d[run_sum%k] += 1
         return count
