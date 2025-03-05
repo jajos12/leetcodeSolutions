@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
