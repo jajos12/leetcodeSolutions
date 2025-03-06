@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jajos12/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/jajos12/leetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/jajos12/leetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/jajos12/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jajos12/leetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/jajos12/leetcodeSolutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Math
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/jajos12/leetcodeSolutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jajos12/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/jajos12/leetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jajos12/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/jajos12/leetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jajos12/leetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jajos12/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
