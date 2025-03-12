@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/jajos12/leetcodeSolutions/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/jajos12/leetcodeSolutions/tree/master/0874-backspace-string-compare) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jajos12/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/jajos12/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/jajos12/leetcodeSolutions/tree/master/0874-backspace-string-compare) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jajos12/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/jajos12/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/jajos12/leetcodeSolutions/tree/master/0342-power-of-four) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/jajos12/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
