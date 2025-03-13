@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/jajos12/leetcodeSolutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jajos12/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/jajos12/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/jajos12/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/jajos12/leetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/jajos12/leetcodeSolutions/tree/master/0739-daily-temperatures) |
@@ -70,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jajos12/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/jajos12/leetcodeSolutions/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/jajos12/leetcodeSolutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/jajos12/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/jajos12/leetcodeSolutions/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/jajos12/leetcodeSolutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
