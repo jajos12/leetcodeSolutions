@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/jajos12/leetcodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/jajos12/leetcodeSolutions/tree/master/0342-power-of-four) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [2050-count-good-numbers](https://github.com/jajos12/leetcodeSolutions/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -115,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/jajos12/leetcodeSolutions/tree/master/0342-power-of-four) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jajos12/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2050-count-good-numbers](https://github.com/jajos12/leetcodeSolutions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
