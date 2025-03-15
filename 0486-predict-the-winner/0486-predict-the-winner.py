@@ -10,8 +10,5 @@ class Solution:
                 return min(-arr[0]+solver(arr[1:], pos+1), -arr[-1]+solver(arr[:-1], pos+1))
             else:
                 return max(arr[0]+solver(arr[1:], pos+1), arr[-1]+solver(arr[:-1], pos+1))
-        # if len(nums) <= 1:
-        #     return True
         max_c = solver(nums, 0)
-        print(max_c)
         return max_c >= 0
