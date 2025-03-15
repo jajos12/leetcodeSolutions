@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/jajos12/leetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/jajos12/leetcodeSolutions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [0859-design-circular-deque](https://github.com/jajos12/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/jajos12/leetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1095-two-city-scheduling](https://github.com/jajos12/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jajos12/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/jajos12/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/jajos12/leetcodeSolutions/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/jajos12/leetcodeSolutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/jajos12/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/jajos12/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/jajos12/leetcodeSolutions/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/jajos12/leetcodeSolutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/jajos12/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
