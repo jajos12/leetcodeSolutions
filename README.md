@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jajos12/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/jajos12/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/jajos12/leetcodeSolutions/tree/master/0486-predict-the-winner) |
@@ -192,5 +193,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/jajos12/leetcodeSolutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
