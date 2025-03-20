@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/jajos12/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/jajos12/leetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1095-two-city-scheduling](https://github.com/jajos12/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
+| [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/jajos12/leetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0943-sum-of-subarray-minimums](https://github.com/jajos12/leetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/jajos12/leetcodeSolutions/tree/master/0342-power-of-four) |
+| [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 ## Recursion
 |  |
 | ------- |
@@ -198,4 +201,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/jajos12/leetcodeSolutions/tree/master/0077-combinations) |
+| [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
