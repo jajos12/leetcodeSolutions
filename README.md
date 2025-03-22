@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jajos12/leetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/jajos12/leetcodeSolutions/tree/master/2050-count-good-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jajos12/leetcodeSolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/jajos12/leetcodeSolutions/tree/master/0077-combinations) |
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/jajos12/leetcodeSolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bitmask
 |  |
 | ------- |
