@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/jajos12/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-two-city-scheduling](https://github.com/jajos12/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jajos12/leetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/jajos12/leetcodeSolutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Math
 |  |
@@ -121,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jajos12/leetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0943-sum-of-subarray-minimums](https://github.com/jajos12/leetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/jajos12/leetcodeSolutions/tree/master/0456-132-pattern) |
+| [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
