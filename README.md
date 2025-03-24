@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/jajos12/leetcodeSolutions/tree/master/0071-simplify-path) |
 | [0874-backspace-string-compare](https://github.com/jajos12/leetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jajos12/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/jajos12/leetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0943-sum-of-subarray-minimums](https://github.com/jajos12/leetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/jajos12/leetcodeSolutions/tree/master/0077-combinations) |
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
