@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/jajos12/leetcodeSolutions/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/jajos12/leetcodeSolutions/tree/master/0093-restore-ip-addresses) |
 | [0874-backspace-string-compare](https://github.com/jajos12/leetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jajos12/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jajos12/leetcodeSolutions/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/jajos12/leetcodeSolutions/tree/master/0077-combinations) |
+| [0093-restore-ip-addresses](https://github.com/jajos12/leetcodeSolutions/tree/master/0093-restore-ip-addresses) |
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jajos12/leetcodeSolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bitmask
