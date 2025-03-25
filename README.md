@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jajos12/leetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/jajos12/leetcodeSolutions/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/jajos12/leetcodeSolutions/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/jajos12/leetcodeSolutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/jajos12/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/jajos12/leetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jajos12/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0456-132-pattern](https://github.com/jajos12/leetcodeSolutions/tree/master/0456-132-pattern) |
+| [0792-binary-search](https://github.com/jajos12/leetcodeSolutions/tree/master/0792-binary-search) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Ordered Set
 |  |
