@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jajos12/leetcodeSolutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0278-first-bad-version](https://github.com/jajos12/leetcodeSolutions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/jajos12/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/jajos12/leetcodeSolutions/tree/master/0792-binary-search) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -243,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/jajos12/leetcodeSolutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
