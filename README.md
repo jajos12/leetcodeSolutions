@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/jajos12/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/jajos12/leetcodeSolutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1095-two-city-scheduling](https://github.com/jajos12/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/jajos12/leetcodeSolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/jajos12/leetcodeSolutions/tree/master/0278-first-bad-version) |
 | [0456-132-pattern](https://github.com/jajos12/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0792-binary-search](https://github.com/jajos12/leetcodeSolutions/tree/master/0792-binary-search) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/jajos12/leetcodeSolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Ordered Set
 |  |
