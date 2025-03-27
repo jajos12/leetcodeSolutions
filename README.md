@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [3643-zero-array-transformation-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jajos12/leetcodeSolutions/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jajos12/leetcodeSolutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [3643-zero-array-transformation-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/jajos12/leetcodeSolutions/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
