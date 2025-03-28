@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jajos12/leetcodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [1873-longest-nice-substring](https://github.com/jajos12/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/jajos12/leetcodeSolutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Math
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/jajos12/leetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jajos12/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
+| [1873-longest-nice-substring](https://github.com/jajos12/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/jajos12/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/jajos12/leetcodeSolutions/tree/master/0342-power-of-four) |
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1873-longest-nice-substring](https://github.com/jajos12/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
+| [1873-longest-nice-substring](https://github.com/jajos12/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 ## Interactive
 |  |
 | ------- |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/3643-zero-array-transformation-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1873-longest-nice-substring](https://github.com/jajos12/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 <!---LeetCode Topics End-->
