@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/jajos12/leetcodeSolutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/jajos12/leetcodeSolutions/tree/master/0486-predict-the-winner) |
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
+| [0856-consecutive-numbers-sum](https://github.com/jajos12/leetcodeSolutions/tree/master/0856-consecutive-numbers-sum) |
 | [2050-count-good-numbers](https://github.com/jajos12/leetcodeSolutions/tree/master/2050-count-good-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jajos12/leetcodeSolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1873-longest-nice-substring](https://github.com/jajos12/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
+## Enumeration
+|  |
+| ------- |
+| [0856-consecutive-numbers-sum](https://github.com/jajos12/leetcodeSolutions/tree/master/0856-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
