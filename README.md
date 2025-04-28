@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jajos12/leetcodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jajos12/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3643-zero-array-transformation-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/jajos12/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jajos12/leetcodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jajos12/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jajos12/leetcodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/jajos12/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 <!---LeetCode Topics End-->
