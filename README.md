@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/jajos12/leetcodeSolutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1675-magnetic-force-between-two-balls](https://github.com/jajos12/leetcodeSolutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/jajos12/leetcodeSolutions/tree/master/1720-crawler-log-folder) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/jajos12/leetcodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [3643-zero-array-transformation-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/jajos12/leetcodeSolutions/tree/master/0797-rabbits-in-forest) |
 | [1095-two-city-scheduling](https://github.com/jajos12/leetcodeSolutions/tree/master/1095-two-city-scheduling) |
 | [1285-balance-a-binary-search-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/1285-balance-a-binary-search-tree) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/jajos12/leetcodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Sorting
 |  |
 | ------- |
@@ -276,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-consecutive-numbers-sum](https://github.com/jajos12/leetcodeSolutions/tree/master/0856-consecutive-numbers-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/jajos12/leetcodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
