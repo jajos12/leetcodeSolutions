@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/jajos12/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jajos12/leetcodeSolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jajos12/leetcodeSolutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/jajos12/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/jajos12/leetcodeSolutions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/jajos12/leetcodeSolutions/tree/master/0486-predict-the-winner) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/jajos12/leetcodeSolutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/jajos12/leetcodeSolutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/jajos12/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/jajos12/leetcodeSolutions/tree/master/0859-design-circular-deque) |
 | [0969-number-of-recent-calls](https://github.com/jajos12/leetcodeSolutions/tree/master/0969-number-of-recent-calls) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/jajos12/leetcodeSolutions/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jajos12/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [1873-longest-nice-substring](https://github.com/jajos12/leetcodeSolutions/tree/master/1873-longest-nice-substring) |
 ## Enumeration
 |  |
@@ -283,6 +286,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/jajos12/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jajos12/leetcodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jajos12/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/jajos12/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
