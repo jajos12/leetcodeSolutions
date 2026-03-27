@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/jajos12/leetcodeSolutions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2586-longest-square-streak-in-an-array](https://github.com/jajos12/leetcodeSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/jajos12/leetcodeSolutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jajos12/leetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-zero-array-transformation-ii](https://github.com/jajos12/leetcodeSolutions/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/jajos12/leetcodeSolutions/tree/master/0856-consecutive-numbers-sum) |
 | [2050-count-good-numbers](https://github.com/jajos12/leetcodeSolutions/tree/master/2050-count-good-numbers) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/jajos12/leetcodeSolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jajos12/leetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/jajos12/leetcodeSolutions/tree/master/0874-backspace-string-compare) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/jajos12/leetcodeSolutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/jajos12/leetcodeSolutions/tree/master/2470-removing-stars-from-a-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jajos12/leetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Design
 |  |
 | ------- |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jajos12/leetcodeSolutions/tree/master/0239-sliding-window-maximum) |
+## Matrix
+|  |
+| ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jajos12/leetcodeSolutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 <!---LeetCode Topics End-->
